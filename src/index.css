@@ -538,6 +538,24 @@ span.close__icon {
   background: tomato;
   padding: 4%;
 }
+.edit__icon button {
+  position: absolute;
+  left: 0;
+  cursor: pointer;
+  font-size: 18px;
+  color: white;
+  background: tomato;
+  padding: 4%;
+  border: none;
+}
 .link__styles {
   display: flex;
+}
+.form_header button {
+  background: tomato;
+  border: none;
+  border-radius: 50%;
+  color: white;
+  height: 30px;
+  width: 30px;
 }
